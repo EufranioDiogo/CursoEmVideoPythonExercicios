@@ -16,8 +16,8 @@
 - Esteje atento a possíveis erros de lógica que os códigos podem ter e se quiser avise-me o quanto antes terei o maior prazer em saber que tem pessoal olhando os código!
 
 ### Contactos
-- (Facebook)[https://www.facebook.com/EufranioDiogo10]
-- (Instagram)[https://www.instagram.com/eufraniodiogo5/]
-- (YouTube)[https://www.youtube.com/channel/UCGHrfgpFKFI7lCork7iKF6g?view_as=subscriber]
+- [Facebook](https://www.facebook.com/EufranioDiogo10)
+- [Instagram](https://www.instagram.com/eufraniodiogo5/)
+- [YouTube](https://www.youtube.com/channel/UCGHrfgpFKFI7lCork7iKF6g)
 
 `Paz e amor pessoal`
