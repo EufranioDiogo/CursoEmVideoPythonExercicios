@@ -1,0 +1,5 @@
+print('LARGURA E ALTURA DE UMA PAREDE')
+altura = float(input('Digite a altura(m) de sua parede: '))
+largura = float(input('Digite a largura(m) de sua parede: '))
+quantBaldeTinta = (largura*altura)/(2**2)
+print(f'SERÁ NECESSÁRIO {quantBaldeTinta} balde(s) de tinta')
